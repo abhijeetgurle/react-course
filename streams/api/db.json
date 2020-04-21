@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "My new stream",
+      "description": "piu kutri ahe",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "dasda 2",
+      "description": "fdffghfgh",
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
